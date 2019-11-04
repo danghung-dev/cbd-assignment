@@ -75,3 +75,8 @@ Chọn radom 10 làn trong data số 0
 - down sample 
 
 Logistic regression
+
+
+# SVM 
+
+## Maximum margim 
