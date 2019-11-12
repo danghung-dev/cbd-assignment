@@ -27,3 +27,7 @@ chia đều
 
 Xây dựng kNN là xây dựng kd tree.
 kNN ko chịu ảnh hưởng impbalance 
+
+
+## Example
+https://github.com/osnosis/clustering-boston-marathon/blob/master/Clustering%20the%20Boston%20Marathon.ipynb
