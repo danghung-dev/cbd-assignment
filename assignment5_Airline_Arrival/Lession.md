@@ -80,3 +80,8 @@ Logistic regression
 # SVM 
 
 ## Maximum margim 
+
+
+## 
+1. Recall 0 va 1 phải gần nhất -> khử đc imbalance ( Recall , precision của số 1 gần = nhau )
+2. 
