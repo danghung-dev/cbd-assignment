@@ -4,6 +4,9 @@ Là bài toán Unsupervised Learning (Học không giám sát): data ko có nhã
 
 
 ## Giải thuật K-mean
+Tốt là : 
+- khoảng cách các điểm trong cùng cluster thấp. Khoảng cách các điểm khác cluster cao.
+- Số lượng điểm trong cluster phải gần = nhau 
 
 ## Giải thuật DBScan
 
