@@ -1,5 +1,7 @@
 assignment5_Airline_Arrival/2008.csv
 assignment5_Airline_Arrival/2008_1mil.csv
+ass8/fruits-360_dataset
+ass8/model/mask_rcnn_balloon.h5
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
